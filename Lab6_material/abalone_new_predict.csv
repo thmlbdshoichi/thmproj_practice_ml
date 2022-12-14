@@ -1,0 +1,4 @@
+,Length,Diameter,Height,Whole weight,Shucked weight,Viscera weight,Shell weight,F,M,I,pred_Age
+0,0.38,0.3,0.1,0.28600000000000003,0.1305,0.055999999999999994,0.09,0,0,1,Young
+1,0.565,0.455,0.13,1.058,0.439,0.2645,0.3,1,0,0,Adult
+2,0.545,0.44,0.165,0.7440000000000001,0.2875,0.204,0.25,0,1,0,Adult
